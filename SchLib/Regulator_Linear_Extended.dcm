@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2210K-3.3TRG1
+D IC REG LINEAR 3.3V 300MA SOT23-5
+K 3.3V fixed low voltage drop out linear regulator
+F https://www.diodes.com/assets/Datasheets/AP2210.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PI3EQX501BZAEX
+D IC REDRIVER 3.3V USB3.0 8TDFN
+K USB3.0 5Gbps Redriver
+$ENDCMP
+#
+$CMP TS3USB221ERSER
+D IC USB SWITCH DUAL 1X2 10-QFN
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fts3usb221e
+$ENDCMP
+#
+#End Doc Library

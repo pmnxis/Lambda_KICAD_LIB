@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPC55S14JBD64E
+D ARM® Cortex®-M33 LPC55S1x Microcontroller IC 32-Bit 150MHz 128KB (128K x 8) FLASH 64-HTQFP (10x10)
+F https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf
+$ENDCMP
+#
+$CMP LPC55S14JBD64K
+D ARM® Cortex®-M33 LPC55S1x Microcontroller IC 32-Bit 150MHz 128KB (128K x 8) FLASH 64-HTQFP (10x10)
+F https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf
+$ENDCMP
+#
+$CMP LPC55S14JBD64Y
+D ARM® Cortex®-M33 LPC55S1x Microcontroller IC 32-Bit 150MHz 128KB (128K x 8) FLASH 64-HTQFP (10x10)
+K Reel
+F https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MB85RC16PNF
+D FRAM (Ferroelectric RAM) Memory IC 16Kb (2K x 8) I²C 1MHz 550ns 8-SOP
+K FRAM (Ferroelectric RAM) Memory IC 16Kb (2K x 8) I²C
+F https://www.fujitsu.com/downloads/MICRO/fsa/pdf/products/memory/fram/MB85RC16-DS501-00001-8v0-E.pdf
+$ENDCMP
+#
+#End Doc Library

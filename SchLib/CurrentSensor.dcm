@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS70331EESA
+D Current Sensor HIGH SENSITIVITY, 1 MHZ, GMR-BAS or Hall Effect
+K Current Sensor GMR-BAS, Hall-Effect
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS70331-Datasheet.ashx
+$ENDCMP
+#
+$CMP ACS70331EESATR-005B3
+D Current Sensor HIGH SENSITIVITY, 1 MHZ, 200mV/A , ~DC 5A
+K Current Sensor GMR-BAS, Hall-Effect
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS70331-Datasheet.ashx
+$ENDCMP
+#
+$CMP ACS70331EESATR-2P5U3
+D Current Sensor HIGH SENSITIVITY, 1 MHZ, 800mV/A , ~DC 2.5A
+K Current Sensor GMR-BAS, Hall-Effect
+F https://www.allegromicro.com/~/media/Files/Datasheets/ACS70331-Datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

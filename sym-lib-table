@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Regulator_Switching_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Regulator_Switching_Extended.lib)(options "")(descr ""))
+  (lib (name Memory_NVRAM_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Memory_NVRAM_Extended.lib)(options "")(descr ""))
+)
