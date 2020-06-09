@@ -2,9 +2,13 @@
 ![Lambda_img](./Etc/Lambda.jpg)
 Lambda Series Kicad5 Lib
 ```
+Welcome to ES&EE CAT Ph.D Lambda λ 's Lab.
 The kicad5 library used and drwan by cat, her name is Lambda λ
 Recent days, λ are trying to using kicad5. And she decided to share some libraries for public.
 ```
+
+## Update schedule.
+If there's new part using in kicad5 from my job or hobby. It will be update asap.
 
 ## Required Parameters
 Some rules are applied on schlib.
@@ -43,3 +47,7 @@ Gerneric_Value__Size__Spec for LRC or descrition
 
 ### LCSC Part
 * Only Available for "JLCPCB-Basic" and "JLCPCB-Extended"
+
+## License
+![License_img](./Etc/License.jpg)
+Free for commercial and Non-commercial usage. But you can give Churu(ちゅ~る) to λ. She draw libary for my work. and test those library with SMT and fabrication.
