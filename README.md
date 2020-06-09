@@ -10,7 +10,7 @@ Recent days, λ are trying to using kicad5. And she decided to share some librar
 ## Update schedule.
 If there's new part using in kicad5 from my job or hobby. It will be update asap.
 
-## Required Parameters
+## Required Parameters for SchLib.
 Some rules are applied on schlib.
 
 ### MFR.Part#
@@ -47,6 +47,14 @@ Gerneric_Value__Size__Spec for LRC or descrition
 
 ### LCSC Part
 * Only Available for "JLCPCB-Basic" and "JLCPCB-Extended"
+
+## Required Parameters for PcbLib.
+Not assigned yet. But this is estimated spec for now.
+### Height
+mm
+### STEP.Owner
+*STEP file owner
+Some STEP file download from other website. Original designer's name will be writen.
 
 ## License
 ![License_img](./Etc/License.jpg)
