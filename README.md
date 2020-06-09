@@ -1,7 +1,14 @@
 # Lambda_KICAD5_LIB
- Lambda Series Kicad5 Lib
+![Lambda_img](./Etc/Lambda.jpg)
+Lambda Series Kicad5 Lib
+```
+The kicad5 library used and drwan by cat, her name is Lambda λ
+Recent days, λ are trying to using kicad5. And she decided to share some libraries for public.
+```
 
 ## Required Parameters
+Some rules are applied on schlib.
+
 ### MFR.Part#
 Order Name of Chip.
 * MB85RC16PNF-G-JNERE1
