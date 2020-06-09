@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SP3232EEN-L
+D UART RS232 TRANSCEIVER FULL 2/2 16SOIC 235Kbps 3V ~ 5.5V
+K RS232 FULL 2/2 235Kbps 3V ~ 5.5V
+F https://www.maxlinear.com/ds/sp3222e_sp3232e.pdf
+$ENDCMP
+#
+$CMP SP3232EEY-L
+D UART RS232 TRANSCEIVER FULL 2/2 16TSSOP 235Kbps 3V ~ 5.5V
+K RS232 FULL 2/2 235Kbps 3V ~ 5.5V
+F https://www.maxlinear.com/ds/sp3222e_sp3232e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3401A
+D -0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
+$ENDCMP
+#
+$CMP BSS83P
+D -0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.farnell.com/datasheets/1835997.pdf
+$ENDCMP
+#
+$CMP DMN100-7-F
+D 30V Vds, 1.1A Id, N-Channel MOSFET, 150mOhm Rds, SOT-23
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/ds30049.pdf
+$ENDCMP
+#
+$CMP IRLML6402TRPBF
+D -3.7A Id, -20V Vds, P-Channel MOSFET, 65mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml6402pbf.pdf?fileId=5546d462533600a401535668d5c2263c
+$ENDCMP
+#
+$CMP IRLML9301TRPBF
+D -3.6A Id, -30V Vds, P-Channel HEXFET Power MOSFET, 64mOhm Rds, SOT-23
+K P-Channel MOSFET
+F https://www.infineon.com/dgdl/irlml9301pbf.pdf?fileId=5546d462533600a401535668e5e42640
+$ENDCMP
+#
+$CMP LBSS84LT1G
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F https://datasheet.lcsc.com/szlcsc/Leshan-Radio-LBSS84LT1G_C8492.pdf
+$ENDCMP
+#
+$CMP PMV100ENEA
+D 30V Vds, 3.0A Id, N-Channel MOSFET, AEC-Q101, 54mOhm Rds, SOT-23
+K N-Channel MOSFET AEC-Q101
+F https://assets.nexperia.com/documents/data-sheet/PMV100ENEA.pdf
+$ENDCMP
+#
+$CMP Si2319CDS
+D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.vishay.com/docs/66709/si2319cd.pdf
+$ENDCMP
+#
+#End Doc Library
