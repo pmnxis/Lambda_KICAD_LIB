@@ -56,6 +56,10 @@ mm
 *STEP file owner
 Some STEP file download from other website. Original designer's name will be writen.
 
+## Why don't you upload on official library git.
+I have different guidelines and I consider for the BOM based on JLCPCB and Korean turnkey services.
+So some parameters can be useful for your works or not.
+
 ## License
 ![License_img](./Etc/License.jpg)
 Free for commercial and Non-commercial usage. But you can give Churu(ちゅ~る) to λ. She draw libary for my work. and test those library with SMT and fabrication.
