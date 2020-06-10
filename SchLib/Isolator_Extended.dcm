@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTV-217-A-G
+D DC Optocoupler, Vce 80V, CTR 50%, SOIC/SOP-4 1.27mm P min/max:80/160mA
+K NPN DC Optocoupler
+F https://optoelectronics.liteon.com/upload/download/DS70-2009-0016/LTV-2X7%20sereis%20201610.pdf
+$ENDCMP
+#
+$CMP LTV-217-B-G
+D DC Optocoupler, Vce 80V, CTR 50%, SOIC/SOP-4 1.27mm P min/max:130/260mA
+K NPN DC Optocoupler
+F https://optoelectronics.liteon.com/upload/download/DS70-2009-0016/LTV-2X7%20sereis%20201610.pdf
+$ENDCMP
+#
+$CMP LTV-217-C-G
+D DC Optocoupler, Vce 80V, CTR 50%, SOIC/SOP-4 1.27mm P min/max:200/400mA
+K NPN DC Optocoupler
+F https://optoelectronics.liteon.com/upload/download/DS70-2009-0016/LTV-2X7%20sereis%20201610.pdf
+$ENDCMP
+#
+$CMP LTV-217-TP1-C-G
+D DC Optocoupler, Vce 80V, CTR 50%, SOIC/SOP-4 1.27mm P min/max:200/400mA
+K NPN DC Optocoupler
+F https://optoelectronics.liteon.com/upload/download/DS70-2009-0016/LTV-2X7%20sereis%20201610.pdf
+$ENDCMP
+#
+#End Doc Library
