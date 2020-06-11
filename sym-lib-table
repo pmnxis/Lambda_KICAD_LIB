@@ -4,4 +4,5 @@
   (lib (name Interface_UART_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Interface_UART_Extended.lib)(options "")(descr ""))
   (lib (name Transistor_FET_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Transistor_FET_Extended.lib)(options "")(descr ""))
   (lib (name Isolator_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Isolator_Extended.lib)(options "")(descr ""))
+  (lib (name Connector_Extended_141V)(type Legacy)(uri ${KIPRJMOD}/SchLib/Connector_Extended_141V.lib)(options "")(descr ""))
 )

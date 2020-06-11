@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Push_In_2.54mm_Terminal_141V-1P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 1P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-2P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 2P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-3P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 3P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-4P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 4P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-5P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 5P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-6P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 6P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-7P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 7P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+$CMP Push_In_2.54mm_Terminal_141V-8P
+D PCB Terminal Blocks,Push-in Design,Pitch:2.54mm,150V,5A, 8P
+K Push-In Terminal
+F https://www.dinkle.com/en/terminal/outpagepdf.php?dpid=772
+$ENDCMP
+#
+#End Doc Library
