@@ -48,13 +48,20 @@ Gerneric_Value__Size__Spec for LRC or descrition
 ### LCSC Part
 * Only Available for "JLCPCB-Basic" and "JLCPCB-Extended"
 
-## Required Parameters for PcbLib.
-Not assigned yet. But this is estimated spec for now.
-### Height
-mm
-### STEP.Owner
-*STEP file owner
-Some STEP file download from other website. Original designer's name will be writen.
+## Note for 3d Model Owner
+Some 3d model files are downloaded from other website. Original designer's name will be writen.
+
+The path of each model's reference info is in "LAMBDA_LIB_DIR/3DShapes/**/*.Ref.txt"
+
+
+## Add "LAMBDA_LIB_DIR" PATH on Kicad Configuration.
+![License_img](./Etc/addLambdaPath.png)
+Kicad >> Preferences >> Configure Paths..
+
+Click '+' and add LAMBDA_LIB_DIR for name, and Path is root of this git.
+
+There's problem kicad cannot associate 3d model with relative path from kicad footprint path.
+
 
 ## Why don't you upload on official library git.
 I have different guidelines and I consider for the BOM based on JLCPCB and Korean turnkey services.

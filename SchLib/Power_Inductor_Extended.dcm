@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NR6028T4R7M
+D 4.7uH ±20% 2.7A 40.3mΩ 6.0*6.0*2.8 Power Inductors RoHS
+K Fixed Power Inductor
+F https://www.yuden.co.jp/productdata/catalog/wound04_e.pdf
+$ENDCMP
+#
+#End Doc Library
