@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF NR6028T4R7M L 0 40 N N 1 F N
 F0 "L" -50 -150 50 H V C CNN
 F1 "NR6028T4R7M" -125 0 50 V V C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "Power_Inductor_Extended:L_Taiyo-Yuden_NR-6028" -50 -500 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "NR6028T4R7M" -50 -50 50 V I C CNN "MFR.Part#"
 F5 "Power Inductor 4.7uH 2.7A" -50 -50 50 V V C CNN "ODR.Part#"
@@ -14,10 +14,7 @@ F6 "L_6.0*6.0*2.8" -50 -50 50 V I C CNN "Packaging"
 F7 "NR6028T4R7M" -50 -50 50 V I C CNN "Supplier"
 F8 "C77758" -50 -100 50 V I C CNN "LCSC Part"
 $FPLIST
- Choke_*
- *Coil*
- Inductor_*
- L_*
+ *L_Taiyo-Yuden_NR-6028*
 $ENDFPLIST
 DRAW
 A 0 -75 25 -899 899 0 1 0 N 0 -100 0 -50
