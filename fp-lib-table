@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name Connector_Extended_141V)(type KiCad)(uri ${KIPRJMOD}/PcbLib/Connector_Extended_141V.pretty)(options "")(descr ""))
   (lib (name Power_Inductor_Extended)(type KiCad)(uri ${KIPRJMOD}/PcbLib/Power_Inductor_Extended.pretty)(options "")(descr ""))
+  (lib (name Connector_Extended_5267)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Connector_Extended_5267.pretty)(options "")(descr ""))
 )
