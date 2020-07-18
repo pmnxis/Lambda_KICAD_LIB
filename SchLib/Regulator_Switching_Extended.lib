@@ -10,7 +10,7 @@ F2 "" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 F4 "RT8272GSP" 350 -850 50 H I C CNN "MFR.Part#"
 F5 "RT8272GSP" 0 0 50 H I C CNN "ODR.Part#"
-F6 "Richtek" 350 -1050 50 H I C CNN "Manufactor"
+F6 "Richtek" 350 -1050 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 0 50 H I C CNN "Mount"
 F8 "SOIC-8-EP" 0 0 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 0 50 H I C CNN "Supplier"

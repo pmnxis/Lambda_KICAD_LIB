@@ -24,7 +24,7 @@ Gerneric_Value__Size__Spec for LRC or descrition
 * FRAM IC 16Kb (2K x 8) I²C < But this case only available swappable.
 * RT8272GPS < This case for no alternative.
 
-### Manufactor
+### Manufacturer
 * Fujitsu
 
 ### Mount

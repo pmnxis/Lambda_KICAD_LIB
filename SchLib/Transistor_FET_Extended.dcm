@@ -18,6 +18,10 @@ K N-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/ds30049.pdf
 $ENDCMP
 #
+$CMP DMN3190LDW
+F https://www.diodes.com/assets/Datasheets/DMN3190LDW.pdf
+$ENDCMP
+#
 $CMP IRLML6402TRPBF
 D -3.7A Id, -20V Vds, P-Channel MOSFET, 65mOhm Rds, SOT-23
 K P-Channel MOSFET

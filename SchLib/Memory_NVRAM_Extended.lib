@@ -10,7 +10,7 @@ F2 "" 50 50 50 H I C CNN
 F3 "" 50 50 50 H I C CNN
 F4 "MB85RC16PNF-G-JNERE1" 0 0 50 H I C CNN "MFR.Part#"
 F5 "FRAM IC 16Kb (2K x 8) I²C" 0 0 50 H I C CNN "ODR.Part#"
-F6 "Fujitsu" 0 0 50 H I C CNN "Manufactor"
+F6 "Fujitsu" 0 0 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 0 50 H I C CNN "Mount"
 F8 "SOIC-8" 0 0 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 0 50 H I C CNN "Supplier"

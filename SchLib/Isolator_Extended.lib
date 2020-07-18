@@ -10,7 +10,7 @@ F2 "Package_SO_Extended:SOP-4_4.4x2.6mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 -100 50 H I L CNN
 F4 "LTV-217-A-G" 350 -300 50 H I C CNN "MFR.Part#"
 F5 "LTV-217-A-G" 0 -300 50 H I C CNN "ODR.Part#"
-F6 "Lite-On" 0 -300 50 H I C CNN "Manufactor"
+F6 "Lite-On" 0 -300 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 -300 50 H I C CNN "Mount"
 F8 "SOP-4_2.7x4.4x1.27P" 0 -300 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 -300 50 H I C CNN "Supplier"
@@ -48,7 +48,7 @@ F2 "Package_SO_Extended:SOP-4_4.4x2.6mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 -100 50 H I L CNN
 F4 "LTV-217-B-G" 350 -300 50 H I C CNN "MFR.Part#"
 F5 "LTV-217-B-G" 0 -300 50 H I C CNN "ODR.Part#"
-F6 "Lite-On" 0 -300 50 H I C CNN "Manufactor"
+F6 "Lite-On" 0 -300 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 -300 50 H I C CNN "Mount"
 F8 "SOP-4_2.7x4.4x1.27P" 0 -300 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 -300 50 H I C CNN "Supplier"
@@ -86,7 +86,7 @@ F2 "Package_SO_Extended:SOP-4_4.4x2.6mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 -100 50 H I L CNN
 F4 "LTV-217-C-G" 350 -300 50 H I C CNN "MFR.Part#"
 F5 "LTV-217-C-G" 0 -300 50 H I C CNN "ODR.Part#"
-F6 "Lite-On" 0 -300 50 H I C CNN "Manufactor"
+F6 "Lite-On" 0 -300 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 -300 50 H I C CNN "Mount"
 F8 "SOP-4_2.7x4.4x1.27P" 0 -300 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 -300 50 H I C CNN "Supplier"
@@ -124,7 +124,7 @@ F2 "Package_SO_Extended:SOP-4_4.4x2.6mm_P1.27mm" -200 -200 50 H I L CIN
 F3 "" 0 -100 50 H I L CNN
 F4 "LTV-217-TP1-C-G" 350 -300 50 H I C CNN "MFR.Part#"
 F5 "LTV-217-TP1-C-G" 0 -300 50 H I C CNN "ODR.Part#"
-F6 "Lite-On" 0 -300 50 H I C CNN "Manufactor"
+F6 "Lite-On" 0 -300 50 H I C CNN "Manufacturer"
 F7 "SMD" 0 -300 50 H I C CNN "Mount"
 F8 "SOP-4_2.7x4.4x1.27P" 0 -300 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" 0 -300 50 H I C CNN "Supplier"

@@ -10,7 +10,7 @@ F2 "" -50 -250 50 H I C CNN
 F3 "" -50 -250 50 H I C CNN
 F4 "SP3232EEN-L" -200 -100 50 H I C CNN "MFR.Part#"
 F5 "SP3232EEN-L" -200 -100 50 H I C CNN "ODR.Part#"
-F6 "Exar" -200 -100 50 H I C CNN "Manufactor"
+F6 "Exar" -200 -100 50 H I C CNN "Manufacturer"
 F7 "SMD" -200 -100 50 H I C CNN "Mount"
 F8 "SOIC-16" -200 -100 50 H I C CNN "Packaging"
 F9 "JLCPCB-Extended" -200 -100 50 H I C CNN "Supplier"
@@ -45,7 +45,7 @@ F2 "" -50 -250 50 H I C CNN
 F3 "" -50 -250 50 H I C CNN
 F4 "SP3232EEY-L" -200 -100 50 H I C CNN "MFR.Part#"
 F5 "SP3232EEY-L" -200 -100 50 H I C CNN "ODR.Part#"
-F6 "Exar" -200 -100 50 H I C CNN "Manufactor"
+F6 "Exar" -200 -100 50 H I C CNN "Manufacturer"
 F7 "SMD" -200 -100 50 H I C CNN "Mount"
 F8 "TSSOP-16" -200 -100 50 H I C CNN "Packaging"
 F9 "JLCPCB-Basic" -200 -100 50 H I C CNN "Supplier"

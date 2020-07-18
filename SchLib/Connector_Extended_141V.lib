@@ -10,7 +10,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-1P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-1P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-1P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-1" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -35,7 +35,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-2P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-2P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-2P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-2" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -64,7 +64,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-3P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-3P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-3P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-3" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -97,7 +97,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-4P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-4P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-4P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-4" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -134,7 +134,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-5P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-5P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-5P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-5" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -175,7 +175,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-6P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-6P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-6P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-6" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -220,7 +220,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-7P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-7P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-7P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-7" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
@@ -269,7 +269,7 @@ F2 "Connector_Extended_141V:TERMINAL_141V-8P" 227 25 50 H I C CNN
 F3 "" 227 25 50 H I C CNN
 F4 "141V-8P" -75 -200 50 H V R CNN "MFR.Part#"
 F5 "141V-8P" -1100 0 50 H I C CNN "ODR.Part#"
-F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufactor"
+F6 "Dinkle or DEGSON" -1100 0 50 H I C CNN "Manufacturer"
 F7 "TH" -1100 0 50 H I C CNN "Mount"
 F8 "2.54mmP-8" -1100 0 50 H I C CNN "Packaging"
 F9 "Asian Supplier" -1100 0 50 H I C CNN "Supplier"
