@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32WB55CCx
+D ARM Cortex-M4/M0+ MCU, 256KB flash, 128KB RAM, 64MHz, 1.71-3.6V, 30 GPIO, UFQFPN-48
+K ARM Cortex-M4/M0+ STM32WB Wireless MCU
+F https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf
+$ENDCMP
+#
+$CMP STM32WB55CEx
+D ARM Cortex-M4/M0+ MCU, 512KB flash, 256KB RAM, 64MHz, 1.71-3.6V, 30 GPIO, UFQFPN-48
+K ARM Cortex-M4/M0+ STM32WB Wireless MCU
+F https://www.st.com/resource/en/datasheet/stm32wb55ce.pdf
+$ENDCMP
+#
+$CMP STM32WB55CGx
+D ARM Cortex-M4/M0+ MCU, 1MB flash, 256KB RAM, 64MHz, 1.71-3.6V, 30 GPIO, UFQFPN-48
+K ARM Cortex-M4/M0+ STM32WB Wireless MCU
+F https://www.st.com/resource/en/datasheet/stm32wb55cg.pdf
+$ENDCMP
+#
+#End Doc Library

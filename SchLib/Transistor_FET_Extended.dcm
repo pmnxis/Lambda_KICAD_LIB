@@ -18,7 +18,15 @@ K N-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/ds30049.pdf
 $ENDCMP
 #
+$CMP DMN2004DWK
+D 20V Vds, 540mA Id, Dual N-Channel MOSFET, 550mOhm Rds, SOT-363
+K Dual N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMP2200UDW.pdf
+$ENDCMP
+#
 $CMP DMN3190LDW
+D 30V Vds, 1A Id, Dual N-Channel MOSFET, 190mOhm Rds, SOT-363
+K Dual N-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/DMN3190LDW.pdf
 $ENDCMP
 #
