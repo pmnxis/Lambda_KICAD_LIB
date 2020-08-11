@@ -4,7 +4,7 @@ Lambda Series Kicad5 Lib
 ```
 Welcome to ES&EE CAT Ph.D Lambda λ 's Lab.
 The kicad5 library used and drwan by cat, her name is Lambda λ
-Recent days, λ are trying to using kicad5. And she decided to share some libraries for public.
+Recent days, λ is trying to use kicad5. And she decided to share some libraries for public.
 ```
 
 ## Update schedule.
