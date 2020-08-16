@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMT630A
+D Video Converter CVBS input(NTSC/-J/PAL/SECAM) LCD 3*8b Bus
+K CVBS LCD Controller Chinese IC
+F http://www.best-micro.com/Uedit/net/upload/2016-01-30/bf95102e-d795-464c-b435-bf4123315010.pdf
+$ENDCMP
+#
+#End Doc Library
