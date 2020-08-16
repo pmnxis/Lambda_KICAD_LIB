@@ -8,4 +8,5 @@
   (lib (name Power_Inductor_Extended)(type Legacy)(uri ${KIPRJMOD}/SchLib/Power_Inductor_Extended.lib)(options "")(descr ""))
   (lib (name MCU_STM32WBxx)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/MCU_STM32WBxx.lib)(options "")(descr ""))
   (lib (name Video_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Video_Extended.lib)(options "")(descr ""))
+  (lib (name LCD_Conn_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/LCD_Conn_Extended.lib)(options "")(descr ""))
 )
