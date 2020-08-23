@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ25792
+D BQ25792 I2C Controlled, 1-4 Cell, 5-A Buck-Boost Battery Charger with Dual-Input Selector and USB PD 3.0 OTG Output
+K Battery Charger IC , USB PD 1~4S
+F https://www.ti.com/lit/ds/symlink/bq25792.pdf?ts=1597612857039&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ25792
+$ENDCMP
+#
+#End Doc Library
