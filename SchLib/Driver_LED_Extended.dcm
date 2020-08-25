@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TM1638
+D I2C I/O Expander IC 8Seg FND * 10, 24ch Key Scan
+K I/O Expander FND Segment Key
+F https://retrocip.cz/files/tm1638.pdf
+$ENDCMP
+#
+#End Doc Library
