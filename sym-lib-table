@@ -11,4 +11,5 @@
   (lib (name LCD_Conn_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/LCD_Conn_Extended.lib)(options "")(descr ""))
   (lib (name Battery_Management_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Battery_Management_Extended.lib)(options "")(descr ""))
   (lib (name Driver_LED_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Driver_LED_Extended.lib)(options "")(descr ""))
+  (lib (name Display_Character_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Display_Character_Extended.lib)(options "")(descr ""))
 )
