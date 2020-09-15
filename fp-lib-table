@@ -11,4 +11,5 @@
   (lib (name Display_7Segment_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Display_7Segment_Extended.pretty)(options "")(descr ""))
   (lib (name Heatsink_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Heatsink_Extended.pretty)(options "")(descr ""))
   (lib (name Package_SO_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Package_SO_Extended.pretty)(options "")(descr ""))
+  (lib (name Symbol_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Symbol_Extended.pretty)(options "")(descr ""))
 )
