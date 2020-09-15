@@ -1,5 +1,5 @@
-(module KC-Logo_5.6x8.7mm_SilkScreen (layer F.Cu) (tedit 5F607B43)
-  (descr "KC marking")
+(module KC-Logo_5.6x8.7mm_SilkScreen (layer F.Cu) (tedit 5F607C73)
+  (descr "KC marking (https://share.ansi.org/shared%20documents/Standards%20Activities/International%20Standardization/Regional/Standards%20Portal/KCmark.pdf)")
   (tags "Logo KC certification")
   (attr virtual)
   (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
@@ -8,10 +8,6 @@
   (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (fp_line (start -0.1 0.1) (end -0.1 -0.1) (layer F.CrtYd) (width 0.12))
-  (fp_line (start 0.1 0.1) (end -0.1 0.1) (layer F.CrtYd) (width 0.12))
-  (fp_line (start 0.1 -0.1) (end 0.1 0.1) (layer F.CrtYd) (width 0.12))
-  (fp_line (start -0.1 -0.1) (end 0.1 -0.1) (layer F.CrtYd) (width 0.12))
   (fp_poly (pts (xy 2.274649 -4.343094) (xy 2.363486 -4.33861) (xy 2.434166 -4.332914) (xy 2.464124 -4.330594)
     (xy 2.500746 -4.328808) (xy 2.544479 -4.327542) (xy 2.595769 -4.326782) (xy 2.655064 -4.326517)
     (xy 2.655367 -4.326517) (xy 2.810952 -4.326467) (xy 2.809884 -3.391959) (xy 2.808816 -2.45745)
@@ -143,4 +139,8 @@
     (xy 1.155175 -4.244378) (xy 1.280605 -4.268791) (xy 1.411804 -4.290815) (xy 1.477433 -4.30067)
     (xy 1.572745 -4.313155) (xy 1.67203 -4.32368) (xy 1.773921 -4.332199) (xy 1.877051 -4.338666)
     (xy 1.980056 -4.343035) (xy 2.081568 -4.34526) (xy 2.180221 -4.345295) (xy 2.274649 -4.343094)) (layer F.SilkS) (width 0.01))
+  (fp_line (start -0.1 -0.1) (end 0.1 -0.1) (layer F.CrtYd) (width 0.12))
+  (fp_line (start 0.1 -0.1) (end 0.1 0.1) (layer F.CrtYd) (width 0.12))
+  (fp_line (start 0.1 0.1) (end -0.1 0.1) (layer F.CrtYd) (width 0.12))
+  (fp_line (start -0.1 0.1) (end -0.1 -0.1) (layer F.CrtYd) (width 0.12))
 )
