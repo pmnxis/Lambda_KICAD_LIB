@@ -12,6 +12,12 @@ K P-Channel MOSFET
 F http://www.farnell.com/datasheets/1835997.pdf
 $ENDCMP
 #
+$CMP CSD23285F5
+D P-Channel FemtoFET
+K P-Channel FemtoFET
+F https://www.ti.com/lit/ds/symlink/csd23285f5.pdf
+$ENDCMP
+#
 $CMP DMN100-7-F
 D 30V Vds, 1.1A Id, N-Channel MOSFET, 150mOhm Rds, SOT-23
 K N-Channel MOSFET
