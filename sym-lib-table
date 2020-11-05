@@ -13,4 +13,5 @@
   (lib (name Driver_LED_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Driver_LED_Extended.lib)(options "")(descr ""))
   (lib (name Display_Character_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Display_Character_Extended.lib)(options "")(descr ""))
   (lib (name Drive_Motor_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Drive_Motor_Extended.lib)(options "")(descr ""))
+  (lib (name Module_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Module_Extended.lib)(options "")(descr ""))
 )

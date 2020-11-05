@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STLINK-V3MINI
+D STLINK-V3 compact in-circuit debugger and programmer for STM32
+K STLINK-V3 MINI compact module
+F https://www.st.com/resource/en/user_manual/dm00555046-stlinkv3mods-and-stlinkv3mini-mini-debuggersprogrammers-for-stm32-stmicroelectronics.pdf
+$ENDCMP
+#
+#End Doc Library
