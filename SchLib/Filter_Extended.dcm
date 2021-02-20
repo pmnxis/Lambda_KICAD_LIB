@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USBUF01W6
+D USB Filter, EMI filter and line termination for USB upstream ports
+K USB Filter
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/19/ec/30/05/43/a9/45/e1/CD00002046.pdf/files/CD00002046.pdf/jcr:content/translations/en.CD00002046.pdf
+$ENDCMP
+#
+$CMP USBUF02W6
+D USB Filter, EMI filter and line termination for USB upstream ports
+K USB Filter
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/19/ec/30/05/43/a9/45/e1/CD00002046.pdf/files/CD00002046.pdf/jcr:content/translations/en.CD00002046.pdf
+$ENDCMP
+#
+#End Doc Library
