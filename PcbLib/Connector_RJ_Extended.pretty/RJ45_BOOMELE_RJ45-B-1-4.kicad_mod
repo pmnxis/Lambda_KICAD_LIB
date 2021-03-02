@@ -1,4 +1,4 @@
-(module RJ45_BOOMELE_RJ45-B-1-4 (layer F.Cu) (tedit 603E4872)
+(module RJ45_BOOMELE_RJ45-B-1-4 (layer F.Cu) (tedit 603E4B82)
   (descr "Chinese RJ45 Shielded, 2 LED, 4 Ports, http://www.amphenolinfocom.eu/NavData/Drawings/RJHSE-538X-02-REVC.pdf")
   (tags "RJ45 8p8c quad chinese ethernet cat5")
   (fp_text reference REF** (at 0 -11.75) (layer F.SilkS)
@@ -80,4 +80,9 @@
   (pad 48 thru_hole circle (at -30.355 -9.13) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad 35 thru_hole circle (at -12.315 -9.13) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
   (pad 47 thru_hole circle (at -28.065 -9.13) (size 1.5 1.5) (drill 0.89) (layers *.Cu *.Mask))
+  (model ${LAMBDA_LIB_DIR}/3DShapes/Connector_RJ_Extended.3dshapes/M-RJHSE-X08X-04-REVT1.STEP
+    (offset (xyz -31.5 -5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
