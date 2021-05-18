@@ -16,4 +16,5 @@
   (lib (name Connector_RJ_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Connector_RJ_Extended.pretty)(options "")(descr ""))
   (lib (name Button_Switch_SMD_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Button_Switch_SMD_Extended.pretty)(options "")(descr ""))
   (lib (name Buzzer_Beeper_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Buzzer_Beeper_Extended.pretty)(options "")(descr ""))
+  (lib (name Connector_Extended_X2012WV)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Connector_Extended_X2012WV.pretty)(options "")(descr ""))
 )
