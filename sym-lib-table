@@ -16,4 +16,5 @@
   (lib (name Module_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Module_Extended.lib)(options "")(descr ""))
   (lib (name Filter_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Filter_Extended.lib)(options "")(descr ""))
   (lib (name Connector_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/Connector_Extended.lib)(options "")(descr ""))
+  (lib (name RF_Module_Extended)(type Legacy)(uri ${LAMBDA_LIB_DIR}/SchLib/RF_Module_Extended.lib)(options "")(descr ""))
 )

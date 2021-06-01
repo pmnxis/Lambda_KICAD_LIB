@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-­C3-­WROOM-­02
+D RF Module, ESP32-C3 SoC, Risc-V, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 3.0-3.6V, onboard antenna, SMD
+K RF Radio BT ESP ESP32-C3 Espressif onboard PCB antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
