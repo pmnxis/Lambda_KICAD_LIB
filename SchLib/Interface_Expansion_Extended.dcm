@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA6424A
+D 24-bit I/O expander, I2C and SMBus interface, interrupts, w/o pull-ups, UFN-32
+K ti parallel port
+F https://www.ti.com/lit/ds/symlink/tca6424a.pdf
+$ENDCMP
+#
+#End Doc Library
