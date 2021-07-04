@@ -18,6 +18,12 @@ K P-Channel FemtoFET
 F https://www.ti.com/lit/ds/symlink/csd23285f5.pdf
 $ENDCMP
 #
+$CMP DMG1016V
+D Mosfet Array N and P-Channel 20V 870mA, 640mA 530mW Surface Mount SOT-563
+K N-Channel MOSFET SOT-563
+F https://www.diodes.com/assets/Datasheets/ds31767.pdf
+$ENDCMP
+#
 $CMP DMN100-7-F
 D 30V Vds, 1.1A Id, N-Channel MOSFET, 150mOhm Rds, SOT-23
 K N-Channel MOSFET
@@ -28,6 +34,12 @@ $CMP DMN2004DWK
 D 20V Vds, 540mA Id, Dual N-Channel MOSFET, 550mOhm Rds, SOT-363
 K Dual N-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/DMP2200UDW.pdf
+$ENDCMP
+#
+$CMP DMN26D0UFB4
+D N-Channel 20 V 230mA (Ta) 350mW (Ta) Surface Mount X2-DFN1006-3
+K N-Channel MOSFET DFN1006
+F https://www.diodes.com/assets/Datasheets/DMN26D0UFB4.pdf
 $ENDCMP
 #
 $CMP DMN3190LDW
