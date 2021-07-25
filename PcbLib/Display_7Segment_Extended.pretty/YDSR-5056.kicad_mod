@@ -1,4 +1,4 @@
-(module YDSR-5056 (layer F.Cu) (tedit 609E8887)
+(module YDSR-5056 (layer F.Cu) (tedit 60FD06E6)
   (descr "Hanyang Semi, 5 digit 7 segment, 0.56\"")
   (tags "Hanyang Semi, 5 digit 7 segment, 0.56\"")
   (fp_text reference REF** (at 1 -23.76) (layer F.SilkS)
@@ -327,7 +327,6 @@
   (pad 3 thru_hole circle (at 0 5.08) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (pad 7 thru_hole circle (at 0 15.24) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 13 thru_hole circle (at 15.24 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 14 thru_hole circle (at 15.24 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (model ${LAMBDA_LIB_DIR}/3DShapes/Display_7Segment_Extended.3dshapes/temporary_5651.wrl
@@ -392,11 +391,6 @@
   )
   (model ${LAMBDA_LIB_DIR}/3DShapes/Display_7Segment_Extended.3dshapes/temporary_5651_pin.step
     (offset (xyz 15.24 -12.7 -2.5))
-    (scale (xyz 0.7 0.7 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model ${LAMBDA_LIB_DIR}/3DShapes/Display_7Segment_Extended.3dshapes/temporary_5651_pin.step
-    (offset (xyz 0 -15.24 -2.5))
     (scale (xyz 0.7 0.7 1))
     (rotate (xyz 0 0 0))
   )
