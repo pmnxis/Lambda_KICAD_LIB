@@ -20,4 +20,5 @@
   (lib (name Symbol_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/Symbol_Extended.pretty)(options "")(descr ""))
   (lib (name USB_Redriver)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/USB_Redriver.pretty)(options "")(descr ""))
   (lib (name NTC_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/NTC_Extended.pretty)(options "")(descr ""))
+  (lib (name CommonModeFilter_Extended)(type KiCad)(uri ${LAMBDA_LIB_DIR}/PcbLib/CommonModeFilter_Extended.pretty)(options "")(descr ""))
 )
