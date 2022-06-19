@@ -14,6 +14,7 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 Lambda_KICAD_LIB-backups/
+Lambda_KICAD_LIB-backups/*
 
 # Netlist files (exported from Eeschema)
 *.net

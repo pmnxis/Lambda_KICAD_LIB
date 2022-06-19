@@ -19,4 +19,5 @@
   (lib (name "RF_Module_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/RF_Module_Extended.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_Expansion_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/Interface_Expansion_Extended.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_Ethernet_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/Interface_Ethernet_Extended.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_ST_STM32G0_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/MCU_ST_STM32G0_Extended.kicad_sym")(options "")(descr ""))
 )
