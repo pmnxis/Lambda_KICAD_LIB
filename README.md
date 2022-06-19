@@ -1,10 +1,10 @@
-# Lambda_KICAD5_LIB
+# Lambda_KICAD_LIB
 ![Lambda_img](./Etc/Lambda.jpg)
-Lambda Series Kicad5 Lib
+Lambda Series Kicad6 Lib
 ```
 Welcome to ES&EE CAT Ph.D Lambda λ 's Lab.
-The kicad5 library used and drawn by cat, her name is Lambda λ
-Recent days, λ is trying to use kicad5. And she decided to share some libraries for public.
+The KICAD library used and drawn by cat, her name is Lambda λ
+Recent days, λ is trying to use KICAD. And she decided to share some libraries for public.
 ```
 
 ## Transition to Kicad6
@@ -12,7 +12,7 @@ Now This library changed to Kicad6 version.
 Previous library is legacy format. Thus apply new libary format.
 
 ## Update schedule.
-If there's new part using in kicad5 from my job or hobby. It will be update asap.
+If there's new part using in KICAD from my job or hobby. It will be update asap.
 
 ## Required Parameters for SchLib.
 Some rules are applied on schlib.
