@@ -6,9 +6,12 @@ fp_name_unequal_row_format_string: '{man:s}_{series:s}_{mpn:s}_{num_rows:d}Rows-
 orientation_options:
     H: 'Horizontal'
     V: 'Vertical'
+    RV: 'RightAngle_Vertical'
+
 entry_direction:
     H: 'horizontal'
     V: 'vertical'
+    RV: 'rightangle vertical'
 
 #keyword_fp_string: 'connector {man:s} {series:s} {mpn:s} {entry:s} {orientation:s}'
 keyword_fp_string: 'connector {man:s} {series:s} {entry:s}'
