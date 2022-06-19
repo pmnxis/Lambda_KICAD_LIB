@@ -1,4 +1,4 @@
-3d_model_prefix: '${KISYS3DMOD}/'
+3d_model_prefix: '${KICAD6_3DMODEL_DIR}/'
 
 silk_line_width: 0.12
 silk_pad_clearance: 0.2

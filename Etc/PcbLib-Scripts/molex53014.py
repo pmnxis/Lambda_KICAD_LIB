@@ -237,7 +237,7 @@ def generate_one_footprint(pins_per_row, configuration):
         fp_name=footprint_name, text_y_inside_position='top')
 
     ##################### Output and 3d model ############################
-   # model3d_path_prefix = configuration.get('3d_model_prefix','${KISYS3DMOD}/')
+   # model3d_path_prefix = configuration.get('3d_model_prefix','${KICAD6_3DMODEL_DIR}/')
 
     # 여기 수정해야함.
     lib_name = configuration['lib_name_format_string'].format(series=series, man=manufacturer)
