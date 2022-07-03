@@ -20,4 +20,6 @@
   (lib (name "Interface_Expansion_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/Interface_Expansion_Extended.kicad_sym")(options "")(descr ""))
   (lib (name "Interface_Ethernet_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/Interface_Ethernet_Extended.kicad_sym")(options "")(descr ""))
   (lib (name "MCU_ST_STM32G0_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/MCU_ST_STM32G0_Extended.kicad_sym")(options "")(descr ""))
+  (lib (name "Power_Protection_Extended")(type "KiCad")(uri "${KIPRJMOD}/SchLib/Power_Protection_Extended.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Extended_RJ45")(type "KiCad")(uri "${KIPRJMOD}/SchLib/Connector_Extended_RJ45.kicad_sym")(options "")(descr ""))
 )
