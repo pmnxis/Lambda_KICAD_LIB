@@ -1,0 +1,37 @@
+https://www5.epsondevice.com/en/products/crystal_unit/fa128.html
+https://www5.epsondevice.com/en/tool/3d_cad/download/?agree#fa-128
+
+License Agreement (3D CAD Data)
+Notice to User: This is a legal agreement ("Agreement") between you (an individual or legal entity, referred to hereinafter as "you") and Seiko Epson Corporation ("Epson") for the use of 3D CAD Data, including any accompanying explanatory written materials ("Data").
+
+BEFORE ACQUIRING OR OTHERWISE USING THE DATA, YOU MUST AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU AGREE, CLICK ON THE ACCEPT BUTTON BELOW. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU WILL NOT BE ABLE TO ACQUIRE AND USE THE DATA.
+
+LicenseEpson grants you a personal, non-transferable, limited, nonexclusive and worldwide license to use the Data as follows. The term "Data" shall include any upgrades, modified versions, additions and copies of the Data licensed to you by Epson and/or its licensors.
+to use, refer the Data to develop or design circuit board products used only with Epson's quartz crystal device ("Customer Products"); and
+If you desire to have any third party develop, design or manufacture the Customer Products, the above rights under subsection (a) shall include the right to sublicense to such third party. You shall ensure that such third party complies with the terms of this Agreement and you shall be liable and responsible for compliance with and any violation of the terms of this Agreement by such third party.
+Limitations.Except as expressly provided in this Agreement, you shall not (and shall not cause or authorize any third party to):
+modify, translate, amend, copy or otherwise use the Data in any manner other than permitted in this Agreement;
+use the Data for the development, design or manufacture of any products other than the Customer Products;
+attempt to reverse engineer, decompile or disassemble the Data;
+rent, lease, distribute, sublicense or lend the Data to any third parties as stand-alone products; and
+remove, add or alter any copyright, trademark, registered mark or other proprietary notices on any copies of the Data.
+Ownership and Reservation of Rights.Unless otherwise specifically granted herein, all title, ownership rights, and intellectual property rights in and to the Data shall remain with Epson and/or its licensors. The Data is protected by Japanese Copyright Law and international copyright treaties, as well as other intellectual property laws and treaties. There is no transfer to you of any title to or ownership of the Data and this Agreement shall not be construed as transfer of any rights in the Data.
+Obligations.
+The Data shows only outline drawing data and typical values reflecting Epson's quartz crystal device for reference purpose only. You shall confirm the actual dimensions by referring to the specifications of Epson's quartz crystal device.
+You shall not use the Data for electromagnetic field analysis or structural analysis purposes.
+The Data is provided only in STEP format. If this format is not compatible with your software such as CAD software, you shall alter or convert the format of the Data at its own responsibility.
+Warranty Disclaimers and Indemnification.
+Warranty Disclaimers. YOU ACKNOWLEDGE AND AGREE THAT THE USE OF THE DATA IS AT YOUR OWN RISK. THE DATA IS PROVIDED "AS IS" AND WITHOUT ANY WARRANTY OF ANY KIND. EPSON AND ITS LICENSORS DO NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE DATA. EPSON AND ITS LICENSORS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, AS TO NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE. Some states and/or jurisdictions do not allow the exclusion or limitation of implied warranties in certain circumstances; thus, the above limitations may not apply to you.
+Indemnification. You agree to defend, indemnify and hold harmless Epson and Epson's affiliates and its licensors from any claims, liabilities, damages, losses and expenses (including attorneys' fees), that arise or result from (i) your breach of the terms and conditions of this Agreement or (ii) any disputes with third party (including those related to intellectual property rights) in relation with your use of the Data.
+Limitation of LiabilityIN NO EVENT WILL EPSON AND ITS LICENSORS BE LIABLE TO YOU, WHETHER ARISING UNDER CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OR WARRANTY, MISREPRESENTATION OR OTHERWISE, FOR ANY DIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, EVEN IF EPSON, ITS LICENSORS OR ANY REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR FOR ANY CLAIM BY ANY THIRD PARTY.
+Termination.Without prejudice to any other rights Epson has, this Agreement and the licenses granted herein shall automatically terminate upon failure by you to comply with its terms. You may also terminate this Agreement and the licenses granted herein at any time by destroying the Data.
+Effect of Termination.Upon termination, you shall destroy or return to Epson the Data promptly.
+Export Control Laws ComplianceYou shall comply with all applicable export laws, restrictions, and/or regulations of Japan, the United States or any other applicable foreign agency or authority. You will not export or re-export, or allow the export or re-export of any product, technology or information you obtain or learn of pursuant to this Agreement (or any direct product thereof) in violation of any such laws, restrictions and/or regulations.
+No Assignment.Other than expressly provided herein, you shall NOT assign or otherwise transfer any rights and obligations hereunder, or this Agreement, to any third party without the prior written consent of Epson.
+Governing Law and General Provisions.This Agreement shall be governed and construed under the laws of Japan, without regard to its conflicts of law rules. Application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. This Agreement is the entire agreement between the parties related to the Data, and supersedes any purchase order, communication, advertisement, or representation concerning the Data. This Agreement shall be binding upon, and inure to the benefit of, the parties hereto and their respective successors, assigns and legal representatives. If any provision herein is found to be void or unenforceable, it will not affect the validity of the balance of this Agreement, which shall remain valid and enforceable according to its terms.
+Note for Government End Users.
+
+If you are acquiring the Data on behalf of any unit or agency of the United States Government, the following provisions apply. The Government agrees:
+
+if the Data is supplied to the Department of Defense (DoD), the Data is classified as "Commercial Computer Software" and the Government is acquiring only "restricted rights" in the Data and its documentation as that term is defined in Clause 252.227-7013(c)(1) of the DFARS; and
+if the Data is supplied to any unit or agency of the United States Government other than DoD, the Government's rights in the Data and its documentation will be as defined in Clause 52.227-19(c)(2) of the FAR or, in the case of NASA, in Clause 18-52.227-86(d) of the NASA Supplement to the FAR.
