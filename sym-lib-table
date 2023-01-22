@@ -23,4 +23,5 @@
   (lib (name "Power_Protection_Extended")(type "KiCad")(uri "${KIPRJMOD}/SchLib/Power_Protection_Extended.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_Extended_RJ45")(type "KiCad")(uri "${KIPRJMOD}/SchLib/Connector_Extended_RJ45.kicad_sym")(options "")(descr ""))
   (lib (name "CoaxRF_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/CoaxRF_Extended.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface_USB_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/SchLib/Interface_USB_Extended.kicad_sym")(options "")(descr ""))
 )
