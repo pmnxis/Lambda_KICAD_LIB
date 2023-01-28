@@ -1,0 +1,3 @@
+[submodule "Etc/PcbLib-Scripts/kicad-footprint-generator"]
+	path = Etc/PcbLib-Scripts/kicad-footprint-generator
+	url = https://gitlab.com/kicad/libraries/kicad-footprint-generator.git
