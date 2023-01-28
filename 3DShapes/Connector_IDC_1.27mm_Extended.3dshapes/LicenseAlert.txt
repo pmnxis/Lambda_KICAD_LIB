@@ -1,0 +1,17 @@
+Following files are from https://www.cnctech.us/
+
+3220-10-0100-00 3D.stp
+3220-14-0100-00 3D.stp
+3220-16-0100-00 3D.stp
+3220-20-0100-00 3D.stp
+3220-26-0100-00 3D.stp
+3220-40-0100-00 3D.stp
+3220-50-0100-00 3D.stp
+
+------------------------------------
+
+Following files are from https://www.3dcontentcentral.com/secure/download-model.aspx?catalogid=171&id=482309
+
+3220-30-0100-00 3D.step
+3220-34-0100-00 3D.step
+3220-60-0100-00 3D.step

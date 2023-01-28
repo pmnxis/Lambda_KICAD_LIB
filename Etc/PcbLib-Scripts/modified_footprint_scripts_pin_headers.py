@@ -17,7 +17,7 @@ def makeIdcHeaderCustom(rows, cols, rm, coldist, body_width, overlen_top, overle
                         latch_len=0, latch_width=0,
                         mh_ddrill=0, mh_pad=[0,0], mh_overlen=0, mh_offset=0, mh_number='MP',
                         tags_additional=[], extra_description=False, lib_name="Connector_IDC", classname="IDC-Header", classname_description="IDC box header", offset3d=[0, 0, 0], scale3d=[1, 1, 1],
-                        rotate3d=[0, 0, 0], model3d_path_prefix="${KICAD7_3DMODEL_DIR}", custom_description="", custom_3d=""):
+                        rotate3d=[0, 0, 0], model3d_path_prefix="${KICAD7_3DMODEL_DIR}", output_path_base="", custom_description="", custom_3d=""):
 
     crt_offset = 0.5 # different for connectors
     txt_offset = 1
@@ -318,7 +318,7 @@ def makeIdcHeaderCustom(rows, cols, rm, coldist, body_width, overlen_top, overle
     # print(kicad_mod.getCompleteRenderTree())
     
     # write file
-    output_dir = '{lib_name:s}.pretty/'.format(lib_name=lib_name)
+    output_dir = '{output_path_base}{lib_name:s}.pretty/'.format(output_path_base=output_path_base, lib_name=lib_name)
     if not os.path.isdir(output_dir): #returns false if path does not yet exist!! (Does not check path validity)
         os.makedirs(output_dir)
     file_handler = KicadFileHandler(kicad_mod)

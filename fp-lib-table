@@ -28,4 +28,5 @@
   (lib (name "Capacitor_SMD_Narrow_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Capacitor_SMD_Narrow_Extended.pretty")(options "")(descr ""))
   (lib (name "Inductor_SMD_Narrow_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Inductor_SMD_Narrow_Extended.pretty")(options "")(descr ""))
   (lib (name "Filter_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Filter_Extended.pretty")(options "")(descr ""))
+  (lib (name "Connector_IDC_1.27mm_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Connector_IDC_1.27mm_Extended.pretty")(options "")(descr ""))
 )

@@ -11,25 +11,8 @@ from KicadModTree import *  # NOQA
 from modified_footprint_scripts_pin_headers import * # Custom
 
 # 3220-XX-0100-00
-if __name__ == "__main__":
-    # parser = argparse.ArgumentParser(description='use confing .yaml files to create footprints.')
-    # parser.add_argument('--global_config', type=str, nargs='?', help='the config file defining how the footprint will look like. (KLC)', default='./config_KLCv3.0.yaml')
-    # parser.add_argument('--series_config', type=str, nargs='?', help='the config file defining series parameters.', default='./conn_config_KLCv3.yaml')
-    # args = parser.parse_args()
 
-    # with open(args.global_config, 'r') as config_stream:
-    #     try:
-    #         configuration = yaml.safe_load(config_stream)
-    #     except yaml.YAMLError as exc:
-    #         print(exc)
-
-    # with open(args.series_config, 'r') as config_stream:
-    #     try:
-    #         configuration.update(yaml.safe_load(config_stream))
-    #     except yaml.YAMLError as exc:
-    #         print(exc)
-    # for pins_per_row in pins_per_row_range:
-    #     generate_one_footprint(pins_per_row, configuration)
+def gen_3220_XX_0100_00():
     tags_additional = []
     extra_description = 'http://www.cnctech.us/pdfs/3220-XX-0100-00_.pdf'
 
@@ -62,6 +45,8 @@ if __name__ == "__main__":
 
     for rows in [3,4,5,6,7,8,10,12,13,15,17,20,22,25,30,38]:
         # for latch_len in latch_lengths:
+        offset3d = [0.65 / 25.4, (-2.54-((rows-5)*(0.635))) / 25.4, 2.54 / 25.4]
+        rotate3d = [0, -180, 180]
         for mh_ddrill, mh_pad, mh_overlen in zip([0, mh_ddrill], [[0,0], mh_pad], [0, mh_overlen]):
         #for mh_ddrill, mh_pad, mh_overlen in zip([0], [[0,0]], [0]):
             part_num = "%s%s%02u%s" % (part_num_left_left, part_num_left, rows*cols, part_num_right)
@@ -75,5 +60,27 @@ if __name__ == "__main__":
                                 latch_lengths, latch_width,
                                 mh_ddrill, mh_pad, mh_overlen, mh_offset, mh_number,
                                 tags_additional, extra_description, "Connector_IDC_1.27mm_Extended",
-                                part_num, class_desc, [0, 0, 0], [1, 1, 1], [0, 0, 0],
-                                "${LAMBDA_LIB_DIR}/3DShapes/", file_name)
+                                part_num, class_desc, offset3d, [1, 1, 1], rotate3d,
+                                "${LAMBDA_LIB_DIR}/3DShapes/", "../../PcbLib/", "", file_name)
+
+
+if __name__ == "__main__":
+    # parser = argparse.ArgumentParser(description='use confing .yaml files to create footprints.')
+    # parser.add_argument('--global_config', type=str, nargs='?', help='the config file defining how the footprint will look like. (KLC)', default='./config_KLCv3.0.yaml')
+    # parser.add_argument('--series_config', type=str, nargs='?', help='the config file defining series parameters.', default='./conn_config_KLCv3.yaml')
+    # args = parser.parse_args()
+
+    # with open(args.global_config, 'r') as config_stream:
+    #     try:
+    #         configuration = yaml.safe_load(config_stream)
+    #     except yaml.YAMLError as exc:
+    #         print(exc)
+
+    # with open(args.series_config, 'r') as config_stream:
+    #     try:
+    #         configuration.update(yaml.safe_load(config_stream))
+    #     except yaml.YAMLError as exc:
+    #         print(exc)
+    # for pins_per_row in pins_per_row_range:
+    #     generate_one_footprint(pins_per_row, configuration)
+    # gen_3220_XX_0100_00()
