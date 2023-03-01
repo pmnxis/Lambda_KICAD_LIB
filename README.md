@@ -7,9 +7,10 @@ The KICAD library used and drawn by cat, her name is Lambda λ
 Recent days, λ is trying to use KICAD. And she decided to share some libraries for public.
 ```
 
-## Transition to Kicad6
-Now This library changed to Kicad6 version.
-Previous library is legacy format. Thus apply new libary format.
+## Transition to Kicad7
+Now This library changed to Kicad7 version.
+Some of library would working with Kicad6, But latest library only working with Kicad7.
+Previous kicad5 library is legacy format. Thus apply new libary format.
 
 ## Update schedule.
 If there's new part using in KICAD from my job or hobby. It will be update asap.
