@@ -125,7 +125,8 @@ drill = 0.9
 pad_to_pad_clearance = 0.4
 annular_ring = 1.4-0.8
 
-pad_size = [pitch - pad_to_pad_clearance, drill + 2*annular_ring]
+# pad_size = [pitch - pad_to_pad_clearance, drill + 2*annular_ring]
+pad_size=[1.3, 1.9]
 pad_shape=Pad.SHAPE_OVAL
 if pad_size[1] == pad_size[0]:
     pad_shape=Pad.SHAPE_CIRCLE
@@ -244,7 +245,9 @@ def generate_one_footprint(pins_per_row, configuration):
     #model_name = '{model3d_path_prefix:s}{lib_name:s}.3dshapes/{fp_name:s}.wrl'.format(
     #    model3d_path_prefix=model3d_path_prefix, lib_name=lib_name, fp_name=footprint_name)
     model_path = stp_dir + stp_name.format(n=pins_per_row*number_of_rows)
-    model_data = Model(filename=model_path, offset=[(0.4+((pins_per_row-2)*pitch/2)), 0.5, 3.0], scale=[1,1,1], rotate=[180, 180, 0])
+    model_data = Model(filename=model_path, at=[(0.4+((pins_per_row-2)*pitch/2)), 0.5, 3.0], scale=[1,1,1], rotate=[180, 180, 0])
+    # you must manually fix "    (at (xyz " to "    (offset (xyz "
+    
     kicad_mod.append(model_data)
     print(model_data)
     # output_dir = '{lib_name:s}.pretty/'.format(lib_name=lib_name)
